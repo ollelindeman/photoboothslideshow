@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+#container {
+    width: 1024px;
+    height: 768px;
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
